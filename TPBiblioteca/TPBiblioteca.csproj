@@ -277,8 +277,10 @@
     <Content Include="Source\fondo3.jpg" />
     <Content Include="Source\fondo4.jpg" />
     <Content Include="Source\fondo5.jpg" />
+    <Content Include="Source\fondo6.jpg" />
+    <Content Include="Source\fondo7.jpg" />
     <Content Include="Source\Humberto.jpg" />
-    <Content Include="Source\Juan.jpg" />
+    <Content Include="Source\Juan.jpeg" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
